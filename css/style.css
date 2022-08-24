@@ -153,3 +153,26 @@ body {
     border: none;
     cursor: pointer;
 }
+
+.footer {
+    height: 150px;
+    background-color: #0B0D17;
+    color: #82A5C0;
+    padding: 20px;
+}
+
+.voluntter-collection {
+    background-color: #F5F5F5;
+    height: 300px;
+
+    padding: 100px 0px 0px 0px;
+}
+
+.join-now {
+    width: 200px;
+    text-decoration: none;
+    color: #111111;
+    border: 2px solid #111111;
+    padding: 20px 90px;
+    font-size: 20px;
+}
