@@ -1,0 +1,137 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+.header {
+    background-image: url(../images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    opacity: 0.8;
+}
+
+.header-top {
+    padding-top: 10%;
+    color: #ffffff;
+
+}
+
+.header-top h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.header-top p {
+    padding: 0 10px 20px 0;
+    width: 750px;
+    margin: 0 auto;
+}
+
+.donate-now {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 15px 40px;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+.donate-today {
+    margin: 150px 0;
+}
+
+.donate-today h2 {
+    font-size: 40px;
+    color: #121212;
+    font-weight: 700;
+}
+
+.donate-today p {
+    width: 600px;
+    margin: 0 auto;
+    color: #7b7b7b;
+}
+
+.amount {
+    display: flex;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.amount-specific {
+    color: #787878;
+    background-color: #FAFAFA;
+    font-size: 20px;
+    padding: 20px;
+    margin: 50px 10px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.amount-specific:hover {
+    background-color: #FFEEEE;
+    border: 3px solid #FF5959;
+    border-radius: 5px;
+    color: #FF5959;
+}
+
+.donate-amount {
+    width: 700px;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    color: #DADADA;
+    border: none;
+    border-bottom: 2px solid #DADADA;
+    margin-bottom: 30px;
+}
+
+.donate-plan {
+    margin: 150px 0;
+}
+
+.donate-plan h1 {
+    font-size: 40px;
+    color: #121212;
+    font-weight: 700;
+}
+
+.donate-plan p {
+    width: 600px;
+    margin: 0 auto;
+    color: #7b7b7b;
+}
+
+.donation {
+    display: flex;
+    width: 800px;
+    margin: 0 10%;
+}
+
+.donation-item {
+    margin: 40px 30px;
+    text-align: start;
+    padding: 70px 40px;
+    border-radius: 5px;
+    width: 30%;
+}
+
+.donation-item p {
+    color: #818282;
+    width: 250px;
+}
+
+.food {
+    background-color: #EDF5F6;
+}
+
+.shelter {
+    background-color: #FFEEEE;
+}
+
+.education {
+    background-color: #FFF4D6;
+}
